@@ -7,7 +7,7 @@ Always check before install something.**
 
 *For your information i will spell **Flavour** as in British accent*
 ## Intro
->The-All-Blue is FULLY customizable free `Arch` `Hyprland(0.55.3)` .Dots Repo. Everyone is welcome to use and leave their thoughts how you liked it or which you didn't. Still learning so your kind words will be much appreciated ❤️. It has custom **Flavour**, **Theme** & **Wallpaper Switcher via Rofi**. You can choose which *Flavour* you want in Rofis preview. As you can tell this concept is completly taken from **OMARCHY** that made by **DHH a very handsome dude**. You could say why i made this than, i could use omarchy insted. Well it is good but i want something more personal that "I" created. Then i will know how everything works and how to fix it if anything breaks.
+>The-All-Blue is FULLY customizable `Arch` `Hyprland(0.55.3)` .Dots Repo. Still learning so your kind words will be much appreciated ❤️. It has custom **Flavour**, **Theme** & **Wallpaper Switcher via Rofi**. You can choose which *Flavour* you want in Rofis preview. As you can tell this concept is completly taken from **OMARCHY** that made by **DHH a very handsome dude**. You could say why i made this than, i could use omarchy insted. Well omarchy is good but i want something more personal that "I" created. Then i will know how everything works and how to fix it if anything breaks. Which always happens.😄
 >
 
 ## Now, what are Flavours? 
